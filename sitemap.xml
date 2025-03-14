@@ -7,17 +7,42 @@
     </url>
     <url>
         <loc>
-            http://localhost:8000/
-        </loc>
-    </url>
-    <url>
-        <loc>
             http://localhost:8000/products/
         </loc>
     </url>
     <url>
         <loc>
+            http://localhost:8000/about/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/blog/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/products/3-piece-chicken-strips/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/spicy-3-piece-chicken-strips/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/5-piece-classic-chicken-tenders/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/spicy-5-piece-chicken-tenders/
         </loc>
     </url>
     <url>
