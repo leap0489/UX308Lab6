@@ -7,6 +7,16 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/worlds-spiciest-sauce/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/brantfords-newest-neighbour-grand-opening/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/products/
         </loc>
     </url>
